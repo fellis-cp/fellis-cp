@@ -10,7 +10,7 @@
 ### 💬 About Me
 
 - Hi 👋🏻, my name is Hanif Anggara
-- like Hoyo games, anime, and stuff 
+- Like Hoyo games, anime, and stuff 
 - I'm currently studying ✍🏻 as an Informatics Engineering student at UIN Sunan Kalijaga Yogyakarta
 - Bangkit 2023 Mobile Dev
 
