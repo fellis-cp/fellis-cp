@@ -1,9 +1,10 @@
 <h1 align="center">
 <div align="center">
-    <img align="center"  src="https://github.com/fellis-cp/fellis-cp/assets/60042724/aa6c7675-3d93-40ea-bc92-9067e8e472ea" width="800px" height="300px" alt="welcome-gif">
+    <img align="center"  src="https://github.com/fellis-cp/fellis-cp/assets/60042724/ed3152a4-b3d2-4a35-a57c-987e48cb0cb4" width="800px" height="300px" alt="welcome-gif">
 </div>
 
 <br />
+
 
 <img align="right" height="300" width="375" alt="Github metrics" src="https://github.com/fellis-cp/fellis-cp/blob/repo-main/github-metrics.svg"/>
 
