@@ -11,7 +11,10 @@
 ### 💬 About Me
 
 - Hi 👋🏻, my name is Hanif Anggara
-- Like Hoyo games, anime, and stuff 
+- Like Hoyo games, anime, and stuff
+
+###📄 Know about my experiences
+
 - I'm currently studying ✍🏻 as an Informatics Engineering student at UIN Sunan Kalijaga Yogyakarta
 - Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka Mobile Development
 
