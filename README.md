@@ -1,9 +1,8 @@
 <h1 align="center">
 Hlo ヾ(￣ ▽ ￣)
-</h1>
 
 <div align="center">
-    <img align="center"  src="" width="1000px" alt="welcome-gif">
+    <img align="center"  src="https://github.com/fellis-cp/fellis-cp/assets/60042724/aa6c7675-3d93-40ea-bc92-9067e8e472ea" width="1000px" alt="welcome-gif">
 </div>
 
 <br />
