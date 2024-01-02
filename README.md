@@ -13,7 +13,7 @@
 - Hi 👋🏻, my name is Hanif Anggara
 - Like Hoyo games, anime, and stuff 
 - I'm currently studying ✍🏻 as an Informatics Engineering student at UIN Sunan Kalijaga Yogyakarta
-- Bangkit 2023 Mobile Dev
+- Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka Mobile Development
 
 
 
@@ -22,7 +22,7 @@
 
 ### 📡 Find Me On
 
-<a href="/"><code><img alt="| LinkedIn" 
+<a href="https://www.linkedin.com/in/m-hanif-fajar-anggara-a71950278/"><code><img alt="|M.Hanif Fajar Anggara LinkedIn" 
     src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></code></a>
 
 
