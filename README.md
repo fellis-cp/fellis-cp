@@ -1,6 +1,6 @@
 <h1 align="center">
 <div align="center">
-    <img align="center"  src="https://github.com/fellis-cp/fellis-cp/assets/60042724/ed3152a4-b3d2-4a35-a57c-987e48cb0cb4" width="500px" height="300px" alt="welcome-gif">
+    <img align="center"  src="https://github.com/fellis-cp/fellis-cp/assets/60042724/ed3152a4-b3d2-4a35-a57c-987e48cb0cb4" width="700px" height="300px" alt="welcome-gif">
 </div>
 
 <br />
