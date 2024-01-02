@@ -1,6 +1,6 @@
 <h1 align="center">
 <div align="center">
-    <img align="center"  src="https://github.com/fellis-cp/fellis-cp/assets/60042724/6b0fee18-55c6-452e-9fe1-f29183b2ebc2" width="800px" height="350px" alt="welcome-gif">
+    <img align="center"  src="https://github.com/fellis-cp/fellis-cp/blob/repo-main/github-metrics.svg" width="800px" height="350px" alt="welcome-gif">
 </div>
 
 <br />
