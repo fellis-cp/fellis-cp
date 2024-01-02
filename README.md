@@ -13,9 +13,10 @@ Hlo ヾ(￣ ▽ ￣)
 ### 💬 About Me
 
 - Hi 👋🏻, my name is Hanif Anggara
+- like Hoyo games, anime, and stuff but I also like to code 💻 sometimes on my free time
 - I'm currently studying ✍🏻 as an Informatics Engineering student at UIN Sunan Kalijaga Yogyakarta
 - Bangkit 2023 Mobile Dev
-- like Hoyo games, anime, and stuff but I also like to code 💻 sometimes on my free time
+
 
 
 <br />
