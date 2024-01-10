@@ -18,7 +18,7 @@
 📄 Know about my experiences
 
 - I'm currently studying ✍🏻 as an Informatics Engineering student at UIN Sunan Kalijaga Yogyakarta
-- Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka Mobile Development
+- Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka Mobile Development 2023 H2
 
 <br />
 
