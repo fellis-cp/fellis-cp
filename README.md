@@ -1,6 +1,6 @@
 <h1 align="center">
 <div align="center">
-    <img align="center"  src="https://github.com/fellis-cp/fellis-cp/assets/60042724/77dc75b1-0df4-404d-8d3c-044235e13c5f" width = "900" height = "350">
+    <img align="center"  src="https://github.com/fellis-cp/fellis-cp/assets/60042724/77dc75b1-0df4-404d-8d3c-044235e13c5f" width = "900" height = "250">
 </div>
 
 
