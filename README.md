@@ -54,6 +54,9 @@
 
 <br />
 
-![:fellis-cp](https://count.getloli.com/get/@:fellis-cp)
+<div style="text-align:center">
+    <img src="https://count.getloli.com/get/@:name" alt="name" style="max-width: 100%;" />
+</div>
+
 
 
