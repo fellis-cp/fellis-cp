@@ -24,10 +24,6 @@
 
 <br />
 
-<div style="text-align:center">
-    <img src="https://count.getloli.com/get/@:fellis-cp" alt=":fellis-cp" />
-</div>
-
 ### 📡 Find Me On
 
 <a href="https://www.linkedin.com/in/m-hanif-fajar-anggara-a71950278/"><code><img alt="|M.Hanif Fajar Anggara LinkedIn" 
@@ -57,5 +53,9 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 <br />
+
+<div style="text-align:center">
+    <img src="https://count.getloli.com/get/@:fellis-cp" alt=":fellis-cp" />
+</div>
 
 
