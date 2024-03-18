@@ -1,7 +1,7 @@
 <h1 align="center">
 <div align="center">
 <div style="text-align:center">
-    <img src="https://count.getloli.com/get/@:fellis-cp ?theme=asoul" alt="fellis-cp" style="max-width: 100%;" />
+    <img src="https://count.getloli.com/get/@:fellis-cp" alt="fellis-cp" style="max-width: 100%;" />
 </div>
 
     
