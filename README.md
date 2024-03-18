@@ -1,5 +1,9 @@
 <h1 align="center">
 <div align="center">
+<div style="text-align:center">
+    <img src="https://count.getloli.com/get/@:name" alt="name" style="max-width: 100%;" />
+</div>
+
     
 </div>
 
@@ -54,9 +58,6 @@
 
 <br />
 
-<div style="text-align:center">
-    <img src="https://count.getloli.com/get/@:name" alt="name" style="max-width: 100%;" />
-</div>
 
 
 
