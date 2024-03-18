@@ -24,7 +24,7 @@
 
 <br />
 
-<img src="https://count.getloli.com/get/@:fellis-cp" alt=":fellis-cp" />
+<img align="center" src="https://count.getloli.com/get/@:fellis-cp" alt=":fellis-cp" />
 
 ### 📡 Find Me On
 
