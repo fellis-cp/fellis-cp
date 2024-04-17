@@ -20,7 +20,7 @@
 ### 💬 About Me
 
 - Hi 👋🏻, my name is Hanif Anggara
-- Like Hoyo games, anime, and stuff
+
 
 📄 Know about my experiences
 
