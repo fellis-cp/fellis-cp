@@ -29,11 +29,6 @@
 
 <br />
 
-### 📡 Find Me On
-
-<a href="https://www.linkedin.com/in/m-hanif-fajar-anggara-a71950278/"><code><img alt="|M.Hanif Fajar Anggara LinkedIn" 
-    src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></code></a>
-
 
 ### 🔧 Tools / Language
 
