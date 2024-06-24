@@ -1,7 +1,7 @@
 <h1 align="center">
     <div align="center">
         <div style="text-align:center">
-            <img src="https://github.com/fellis-cp/fellis-cp/assets/60042724/9c18538f-b30f-4a80-a137-7ba23ffbf0a8" style="width:20%; height:70%;">
+            <img src="https://github.com/fellis-cp/fellis-cp/assets/60042724/9c18538f-b30f-4a80-a137-7ba23ffbf0a8" style="width:10%; height:70%;">
         </div>
     </div>
 </h1>
