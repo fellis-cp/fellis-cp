@@ -1,9 +1,7 @@
 
 
 
-<img align="left" height="200" width="250" alt="zxflkjnalay91" src="https://github.com/user-attachments/assets/37011bee-d6e5-4f22-b372-493f75b70f15"/>
-<img align="right" height="200" width="250" alt="zxflkjnalay91" src="https://github.com/user-attachments/assets/9807f5cd-2122-4650-9b7f-b99ab7ab6abe"/>
-<img align="center" height="200" width="250" alt="83punavalay91" src="https://github.com/user-attachments/assets/e1612ffa-a446-4e16-9d58-baf0f562c78f"/>
+
 
 
 
