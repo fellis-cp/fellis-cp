@@ -19,7 +19,6 @@
 
 📄 Know about my experiences
 
-- studying ✍🏻 as an Informatics Engineering student at UIN Sunan Kalijaga
 - Bangkit Academy Mobile Development 2023 H2
 
 <br />
